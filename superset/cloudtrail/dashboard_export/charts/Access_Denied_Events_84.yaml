@@ -1,0 +1,56 @@
+slice_name: Access Denied Events
+viz_type: big_number_total
+params:
+  datasource: 21__table
+  viz_type: big_number_total
+  granularity_sqla: ts
+  time_range: No filter
+  metric:
+    expressionType: SIMPLE
+    column:
+      advanced_data_type: null
+      certification_details: null
+      certified_by: null
+      column_name: event_action
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 786
+      is_certified: false
+      is_dttm: false
+      python_date_format: null
+      type: STRING
+      type_generic: 1
+      verbose_name: null
+      warning_markdown: null
+    aggregate: COUNT
+    sqlExpression: null
+    isNew: false
+    datasourceWarning: false
+    hasCustomLabel: false
+    label: COUNT(event_action)
+    optionName: metric_mjsgqgxb1w_d6np0hkrj2q
+  adhoc_filters:
+  - expressionType: SIMPLE
+    subject: aws_cloudtrail_error_code
+    operator: ==
+    operatorId: EQUALS
+    comparator: AccessDenied
+    clause: WHERE
+    sqlExpression: null
+    isExtra: false
+    isNew: false
+    datasourceWarning: false
+    filterOptionName: filter_bmrugx21j4g_9zbu3jnsza
+  header_font_size: 0.4
+  subheader_font_size: 0.15
+  y_axis_format: SMART_NUMBER
+  time_format: smart_date
+  extra_form_data: {}
+  dashboards:
+  - 8
+cache_timeout: null
+uuid: a6214e49-705f-4fb5-9726-8b4a4c6242e0
+version: 1.0.0
+dataset_uuid: 0bb854e4-b49f-43c2-bbf1-939617771bd1

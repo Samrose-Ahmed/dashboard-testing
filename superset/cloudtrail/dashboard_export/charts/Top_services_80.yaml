@@ -1,0 +1,57 @@
+slice_name: Top services
+viz_type: pie
+params:
+  datasource: 21__table
+  viz_type: pie
+  granularity_sqla: ts
+  time_range: No filter
+  groupby:
+  - event_provider
+  metric:
+    expressionType: SIMPLE
+    column:
+      advanced_data_type: null
+      certification_details: null
+      certified_by: null
+      column_name: event_provider
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 796
+      is_certified: false
+      is_dttm: false
+      python_date_format: null
+      type: STRING
+      type_generic: 1
+      verbose_name: null
+      warning_markdown: null
+    aggregate: COUNT
+    sqlExpression: null
+    isNew: false
+    datasourceWarning: false
+    hasCustomLabel: false
+    label: COUNT(event_provider)
+    optionName: metric_171b7kpaeax_e4lggrwgzqe
+  adhoc_filters: []
+  row_limit: 100
+  sort_by_metric: true
+  color_scheme: supersetColors
+  show_labels_threshold: 5
+  show_legend: true
+  legendType: scroll
+  legendOrientation: top
+  label_type: key
+  number_format: SMART_NUMBER
+  date_format: smart_date
+  show_labels: true
+  labels_outside: true
+  outerRadius: 70
+  innerRadius: 30
+  extra_form_data: {}
+  dashboards:
+  - 8
+cache_timeout: null
+uuid: 9d2d908b-7186-43d3-9978-a02e7bd8b647
+version: 1.0.0
+dataset_uuid: 0bb854e4-b49f-43c2-bbf1-939617771bd1

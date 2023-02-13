@@ -1,0 +1,65 @@
+slice_name: Top errors
+viz_type: table
+params:
+  datasource: 21__table
+  viz_type: table
+  slice_id: 86
+  granularity_sqla: ts
+  time_range: Last week
+  query_mode: aggregate
+  groupby:
+  - aws_cloudtrail_error_code
+  metrics:
+  - aggregate: COUNT
+    column:
+      advanced_data_type: null
+      certification_details: null
+      certified_by: null
+      column_name: aws_cloudtrail_error_code
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 745
+      is_certified: false
+      is_dttm: false
+      python_date_format: null
+      type: STRING
+      type_generic: 1
+      verbose_name: null
+      warning_markdown: null
+    datasourceWarning: false
+    expressionType: SIMPLE
+    hasCustomLabel: false
+    isNew: false
+    label: COUNT(aws_cloudtrail_error_code)
+    optionName: metric_5583j99qu6v_o70k2do5na
+    sqlExpression: null
+  all_columns: []
+  percent_metrics: []
+  adhoc_filters:
+  - clause: WHERE
+    comparator: null
+    datasourceWarning: false
+    expressionType: SIMPLE
+    filterOptionName: filter_rsmoxfao91d_do3c71giw6
+    isExtra: false
+    isNew: false
+    operator: IS NOT NULL
+    operatorId: IS_NOT_NULL
+    sqlExpression: null
+    subject: aws_cloudtrail_error_code
+  order_by_cols: []
+  row_limit: 10000
+  server_page_length: 10
+  order_desc: true
+  table_timestamp_format: smart_date
+  show_cell_bars: true
+  color_pn: true
+  extra_form_data: {}
+  dashboards:
+  - 8
+cache_timeout: null
+uuid: 1add11f9-af05-429f-bf9a-a2309ec5a5c3
+version: 1.0.0
+dataset_uuid: 0bb854e4-b49f-43c2-bbf1-939617771bd1

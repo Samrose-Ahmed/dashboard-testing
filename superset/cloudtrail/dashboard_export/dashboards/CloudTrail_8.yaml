@@ -1,0 +1,1045 @@
+dashboard_title: CloudTrail
+description: null
+css: ''
+slug: null
+uuid: 0340a085-efa6-4116-a7f4-45fc122a7bdb
+position:
+  CHART-explore-79-1:
+    children: []
+    id: CHART-explore-79-1
+    meta:
+      chartId: 79
+      height: 50
+      sliceName: Count records
+      sliceNameOverride: CloudTrail events
+      uuid: c4b0543f-05e7-40f5-9720-3a46fe186bec
+      width: 7
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-6sNRQoNn1h
+    type: CHART
+  CHART-explore-80-1:
+    children: []
+    id: CHART-explore-80-1
+    meta:
+      chartId: 80
+      height: 50
+      sliceName: Top services
+      uuid: 9d2d908b-7186-43d3-9978-a02e7bd8b647
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-gbb2E193m
+    type: CHART
+  CHART-explore-81-1:
+    children: []
+    id: CHART-explore-81-1
+    meta:
+      chartId: 81
+      height: 19
+      sliceName: Total Events
+      uuid: 501faa15-2332-4a5b-a45f-3676206cefc0
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-ZaE8IC8BlP
+    type: CHART
+  CHART-explore-82-1:
+    children: []
+    id: CHART-explore-82-1
+    meta:
+      chartId: 82
+      height: 50
+      sliceName: Top actions
+      uuid: d34308ed-e66f-462f-803a-cfb879d1ba3c
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-V_8Xjx34d
+    type: CHART
+  CHART-explore-83-1:
+    children: []
+    id: CHART-explore-83-1
+    meta:
+      chartId: 83
+      height: 19
+      sliceName: AWS Accounts
+      uuid: 1570ed28-aaf6-4bfc-b642-1927657e76b0
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-ZaE8IC8BlP
+    type: CHART
+  CHART-explore-84-1:
+    children: []
+    id: CHART-explore-84-1
+    meta:
+      chartId: 84
+      height: 20
+      sliceName: Access Denied Events
+      uuid: a6214e49-705f-4fb5-9726-8b4a4c6242e0
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-ZaE8IC8BlP
+    type: CHART
+  CHART-explore-85-1:
+    children: []
+    id: CHART-explore-85-1
+    meta:
+      chartId: 85
+      height: 20
+      sliceName: Active Users
+      uuid: 049eedb1-db82-4de2-9be3-9ce5edd46273
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-ZaE8IC8BlP
+    type: CHART
+  CHART-explore-86-1:
+    children: []
+    id: CHART-explore-86-1
+    meta:
+      chartId: 86
+      height: 50
+      sliceName: Top errors
+      uuid: 1add11f9-af05-429f-bf9a-a2309ec5a5c3
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-eszbcVVhUF
+    type: CHART
+  CHART-explore-87-1:
+    children: []
+    id: CHART-explore-87-1
+    meta:
+      chartId: 87
+      height: 50
+      sliceName: Top regions
+      uuid: 9e74212d-cff6-43d1-a66e-13ccc9d00250
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-gbb2E193m
+    type: CHART
+  CHART-explore-88-1:
+    children: []
+    id: CHART-explore-88-1
+    meta:
+      chartId: 88
+      height: 50
+      sliceName: Top Source IPs
+      uuid: 5ed8f536-c80c-45b9-a97a-4a60cca25ba9
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-6sNRQoNn1h
+    type: CHART
+  CHART-explore-89-1:
+    children: []
+    id: CHART-explore-89-1
+    meta:
+      chartId: 89
+      height: 50
+      sliceName: Top users
+      uuid: 0d7f2d67-e401-4daa-87d2-6fc7fe3f6627
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-gbb2E193m
+    type: CHART
+  CHART-explore-90-1:
+    children: []
+    id: CHART-explore-90-1
+    meta:
+      chartId: 90
+      height: 50
+      sliceName: Event action over time
+      uuid: b00e9ea7-a935-4a59-b77f-102b881946af
+      width: 8
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-V_8Xjx34d
+    type: CHART
+  CHART-explore-91-1:
+    children: []
+    id: CHART-explore-91-1
+    meta:
+      chartId: 91
+      height: 50
+      sliceName: Errors over time
+      uuid: 4469de40-7dee-4c28-94fe-80d6c815ae28
+      width: 8
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-eszbcVVhUF
+    type: CHART
+  CHART-explore-92-1:
+    children: []
+    id: CHART-explore-92-1
+    meta:
+      chartId: 92
+      height: 50
+      sliceName: Events preview
+      uuid: 77c42ea2-4643-4400-b2a7-ee669e135b17
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-34DWKqIo3n
+    type: CHART
+  DASHBOARD_VERSION_KEY: v2
+  GRID_ID:
+    children:
+    - ROW-ZaE8IC8BlP
+    - ROW-6sNRQoNn1h
+    - ROW-gbb2E193m
+    - ROW-V_8Xjx34d
+    - ROW-eszbcVVhUF
+    - ROW-34DWKqIo3n
+    id: GRID_ID
+    parents:
+    - ROOT_ID
+    type: GRID
+  HEADER_ID:
+    id: HEADER_ID
+    meta:
+      text: CloudTrail
+    type: HEADER
+  ROOT_ID:
+    children:
+    - GRID_ID
+    id: ROOT_ID
+    type: ROOT
+  ROW-34DWKqIo3n:
+    children:
+    - CHART-explore-92-1
+    id: ROW-34DWKqIo3n
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-6sNRQoNn1h:
+    children:
+    - CHART-explore-88-1
+    - CHART-explore-79-1
+    id: ROW-6sNRQoNn1h
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-V_8Xjx34d:
+    children:
+    - CHART-explore-82-1
+    - CHART-explore-90-1
+    id: ROW-V_8Xjx34d
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-ZaE8IC8BlP:
+    children:
+    - CHART-explore-81-1
+    - CHART-explore-83-1
+    - CHART-explore-84-1
+    - CHART-explore-85-1
+    id: ROW-ZaE8IC8BlP
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-eszbcVVhUF:
+    children:
+    - CHART-explore-86-1
+    - CHART-explore-91-1
+    id: ROW-eszbcVVhUF
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-gbb2E193m:
+    children:
+    - CHART-explore-80-1
+    - CHART-explore-87-1
+    - CHART-explore-89-1
+    id: ROW-gbb2E193m
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+metadata:
+  show_native_filters: true
+  chart_configuration:
+    '79':
+      id: 79
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 79
+        chartsInScope:
+        - 80
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 86
+        - 87
+        - 88
+        - 89
+        - 90
+        - 91
+        - 92
+    '80':
+      id: 80
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 80
+        chartsInScope:
+        - 79
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 86
+        - 87
+        - 88
+        - 89
+        - 90
+        - 91
+        - 92
+    '82':
+      id: 82
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 82
+        chartsInScope:
+        - 79
+        - 80
+        - 81
+        - 83
+        - 84
+        - 85
+        - 86
+        - 87
+        - 88
+        - 89
+        - 90
+        - 91
+        - 92
+    '86':
+      id: 86
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 86
+        chartsInScope:
+        - 79
+        - 80
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 87
+        - 88
+        - 89
+        - 90
+        - 91
+        - 92
+    '87':
+      id: 87
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 87
+        chartsInScope:
+        - 79
+        - 80
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 86
+        - 88
+        - 89
+        - 90
+        - 91
+        - 92
+    '88':
+      id: 88
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 88
+        chartsInScope:
+        - 79
+        - 80
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 86
+        - 87
+        - 89
+        - 90
+        - 91
+        - 92
+    '89':
+      id: 89
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 89
+        chartsInScope:
+        - 79
+        - 80
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 86
+        - 87
+        - 88
+        - 90
+        - 91
+        - 92
+    '90':
+      id: 90
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 90
+        chartsInScope:
+        - 79
+        - 80
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 86
+        - 87
+        - 88
+        - 89
+        - 91
+        - 92
+    '91':
+      id: 91
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 91
+        chartsInScope:
+        - 79
+        - 80
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 86
+        - 87
+        - 88
+        - 89
+        - 90
+        - 92
+    '92':
+      id: 92
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 92
+        chartsInScope:
+        - 79
+        - 80
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 86
+        - 87
+        - 88
+        - 89
+        - 90
+        - 91
+  color_scheme: ''
+  refresh_frequency: 0
+  shared_label_colors:
+    eu-west-1: '#1FA8C9'
+    us-east-1: '#454E7C'
+    eu-central-1: '#5AC189'
+    us-west-2: '#FF7F44'
+    eu-west-2: '#666666'
+    ap-southeast-1: '#E04355'
+    us-east-2: '#FCC700'
+    eu-north-1: '#A868B7'
+    ap-northeast-1: '#3CCCCB'
+    ap-northeast-2: '#A38F79'
+    ca-central-1: '#8FD3E4'
+    ap-south-1: '#A1A6BD'
+    sa-east-1: '#ACE1C4'
+    us-west-1: '#FEC0A1'
+    eu-west-3: '#B2B2B2'
+    ap-northeast-3: '#EFA1AA'
+    ap-southeast-2: '#FDE380'
+    COUNT(ts): '#1FA8C9'
+    AssumeRole: '#1FA8C9'
+    AssumeRoleWithSAML: '#454E7C'
+    AssumeRoleWithWebIdentity: '#5AC189'
+    AttachRolePolicy: '#FF7F44'
+    BatchGetQueryExecution: '#666666'
+    BatchGetTable: '#E04355'
+    CheckQueryCompatibility: '#FCC700'
+    ConsoleLogin: '#A868B7'
+    CreateChangeSet: '#3CCCCB'
+    CreateEventSourceMapping20150331: '#A38F79'
+    CreateFunction20150331: '#8FD3E4'
+    CreateGrant: '#A1A6BD'
+    CreateLogGroup: '#ACE1C4'
+    CreateLogStream: '#FEC0A1'
+    CreateQueue: '#B2B2B2'
+    CreateRole: '#EFA1AA'
+    CreateSecret: '#FDE380'
+    CreateTable: '#D3B3DA'
+    Decrypt: '#9EE5E5'
+    DeleteChangeSet: '#D1C6BC'
+    DeleteFunction20150331: '#1FA8C9'
+    DeleteLayerVersion20181031: '#454E7C'
+    DeleteRule: '#5AC189'
+    DeleteSecret: '#FF7F44'
+    DeleteTable: '#666666'
+    DescribeAccessPoints: '#E04355'
+    DescribeAccountAttributes: '#FCC700'
+    DescribeAccountAuditConfiguration: '#A868B7'
+    DescribeAddresses: '#3CCCCB'
+    DescribeAlarms: '#A38F79'
+    DescribeAutoScalingGroups: '#8FD3E4'
+    DescribeAutomationExecutions: '#A1A6BD'
+    DescribeCacheClusters: '#ACE1C4'
+    DescribeCacheParameterGroups: '#FEC0A1'
+    DescribeCacheSubnetGroups: '#B2B2B2'
+    DescribeCapacityReservationFleets: '#EFA1AA'
+    DescribeCapacityReservations: '#FDE380'
+    DescribeCertificates: '#D3B3DA'
+    DescribeChangeSet: '#9EE5E5'
+    DescribeClientVpnEndpoints: '#D1C6BC'
+    DescribeClusterParameterGroups: '#1FA8C9'
+    DescribeClusterSecurityGroups: '#454E7C'
+    DescribeClusterSnapshots: '#5AC189'
+    DescribeClusterSubnetGroups: '#FF7F44'
+    DescribeClusters: '#666666'
+    DescribeComputeEnvironments: '#E04355'
+    DescribeConnectionAliases: '#FCC700'
+    DescribeContinuousBackups: '#A868B7'
+    DescribeCustomerGateways: '#3CCCCB'
+    DescribeDBClusterEndpoints: '#A38F79'
+    DescribeDBClusterParameterGroups: '#8FD3E4'
+    DescribeDBClusterSnapshots: '#A1A6BD'
+    DescribeDBClusters: '#ACE1C4'
+    DescribeDBEngineVersions: '#FEC0A1'
+    DescribeDBInstanceAutomatedBackups: '#B2B2B2'
+    DescribeDBInstances: '#EFA1AA'
+    DescribeDBParameterGroups: '#FDE380'
+    DescribeDBProxies: '#D3B3DA'
+    DescribeDBProxyEndpoints: '#9EE5E5'
+    DescribeDBSecurityGroups: '#D1C6BC'
+    DescribeDBSnapshots: '#1FA8C9'
+    DescribeDBSubnetGroups: '#454E7C'
+    DescribeDestinations: '#5AC189'
+    DescribeDhcpOptions: '#FF7F44'
+    DescribeEgressOnlyInternetGateways: '#666666'
+    DescribeElasticGpus: '#E04355'
+    DescribeEventAggregates: '#FCC700'
+    DescribeEventBus: '#A868B7'
+    DescribeEventSubscriptions: '#3CCCCB'
+    DescribeFileSystems: '#A38F79'
+    DescribeFleets: '#8FD3E4'
+    DescribeFlowLogs: '#A1A6BD'
+    DescribeFpgaImages: '#ACE1C4'
+    DescribeGlobalClusters: '#FEC0A1'
+    DescribeGlobalReplicationGroups: '#B2B2B2'
+    DescribeHostReservations: '#EFA1AA'
+    DescribeHosts: '#FDE380'
+    DescribeHub: '#D3B3DA'
+    DescribeImages: '#9EE5E5'
+    DescribeInsightRules: '#D1C6BC'
+    DescribeInstanceEventWindows: '#1FA8C9'
+    DescribeInstanceInformation: '#454E7C'
+    DescribeInstances: '#5AC189'
+    DescribeInternetGateways: '#FF7F44'
+    DescribeIpamPools: '#666666'
+    DescribeIpamScopes: '#E04355'
+    DescribeIpams: '#FCC700'
+    DescribeJobQueues: '#A868B7'
+    DescribeKey: '#3CCCCB'
+    DescribeKeyPairs: '#A38F79'
+    DescribeLaunchConfigurations: '#8FD3E4'
+    DescribeLaunchTemplates: '#A1A6BD'
+    DescribeLoadBalancers: '#ACE1C4'
+    DescribeLogGroups: '#FEC0A1'
+    DescribeLogStreams: '#B2B2B2'
+    DescribeMaintenanceWindows: '#EFA1AA'
+    DescribeManagedPrefixLists: '#FDE380'
+    DescribeMetricFilters: '#D3B3DA'
+    DescribeNatGateways: '#9EE5E5'
+    DescribeNetworkAcls: '#D1C6BC'
+    DescribeNetworkInsightsAccessScopeAnalyses: '#1FA8C9'
+    DescribeNetworkInsightsAccessScopes: '#454E7C'
+    DescribeNetworkInsightsAnalyses: '#5AC189'
+    DescribeNetworkInsightsPaths: '#FF7F44'
+    DescribeNetworkInterfaces: '#666666'
+    DescribeOptionGroups: '#E04355'
+    DescribeParameters: '#FCC700'
+    DescribePatchBaselines: '#A868B7'
+    DescribePlacementGroups: '#3CCCCB'
+    DescribePolicies: '#A38F79'
+    DescribePublicIpv4Pools: '#8FD3E4'
+    DescribeRegistry: '#A1A6BD'
+    DescribeReplicationGroups: '#ACE1C4'
+    DescribeReplicationInstances: '#FEC0A1'
+    DescribeReplicationSubnetGroups: '#B2B2B2'
+    DescribeReplicationTasks: '#EFA1AA'
+    DescribeRepositories: '#FDE380'
+    DescribeReservedCacheNodes: '#D3B3DA'
+    DescribeReservedDBInstances: '#9EE5E5'
+    DescribeReservedInstances: '#D1C6BC'
+    DescribeRouteTables: '#1FA8C9'
+    DescribeRule: '#454E7C'
+    DescribeScheduledActions: '#5AC189'
+    DescribeSecurityGroupRules: '#FF7F44'
+    DescribeSecurityGroups: '#666666'
+    DescribeSnapshotCopyGrants: '#E04355'
+    DescribeSnapshotSchedules: '#FCC700'
+    DescribeSnapshots: '#A868B7'
+    DescribeSpotFleetRequests: '#3CCCCB'
+    DescribeSpotInstanceRequests: '#A38F79'
+    DescribeStackEvents: '#8FD3E4'
+    DescribeStackResources: '#A1A6BD'
+    DescribeStacks: '#ACE1C4'
+    DescribeStateMachine: '#FEC0A1'
+    DescribeSubnets: '#B2B2B2'
+    DescribeTable: '#EFA1AA'
+    DescribeTargetGroups: '#FDE380'
+    DescribeTrafficMirrorFilters: '#D3B3DA'
+    DescribeTrafficMirrorSessions: '#9EE5E5'
+    DescribeTrafficMirrorTargets: '#D1C6BC'
+    DescribeTrails: '#1FA8C9'
+    DescribeTransitGatewayAttachments: '#454E7C'
+    DescribeTransitGatewayConnectPeers: '#5AC189'
+    DescribeTransitGatewayMulticastDomains: '#FF7F44'
+    DescribeTransitGatewayPolicyTables: '#666666'
+    DescribeTransitGatewayRouteTables: '#E04355'
+    DescribeTransitGatewayVpcAttachments: '#FCC700'
+    DescribeTransitGateways: '#A868B7'
+    DescribeTrustedAdvisorCheckSummaries: '#3CCCCB'
+    DescribeTrustedAdvisorChecks: '#A38F79'
+    DescribeUsageLimits: '#8FD3E4'
+    DescribeUserGroups: '#A1A6BD'
+    DescribeUsers: '#ACE1C4'
+    DescribeVolumes: '#FEC0A1'
+    DescribeVpcEndpointServiceConfigurations: '#B2B2B2'
+    DescribeVpcEndpoints: '#EFA1AA'
+    DescribeVpcPeeringConnections: '#FDE380'
+    DescribeVpcs: '#D3B3DA'
+    DescribeVpnConnections: '#9EE5E5'
+    DescribeVpnGateways: '#D1C6BC'
+    DescribeWorkspaces: '#1FA8C9'
+    Encrypt: '#454E7C'
+    EndSecretVersionDelete: '#5AC189'
+    ExecuteChangeSet: '#FF7F44'
+    FilterLogEvents: '#666666'
+    GenerateDataKey: '#E04355'
+    GetAccelerateConfiguration: '#FCC700'
+    GetAccountPublicAccessBlock: '#A868B7'
+    GetAccountSettings20160819: '#3CCCCB'
+    GetBucketAcl: '#A38F79'
+    GetBucketCors: '#8FD3E4'
+    GetBucketEncryption: '#A1A6BD'
+    GetBucketLifecycle: '#ACE1C4'
+    GetBucketLocation: '#FEC0A1'
+    GetBucketLogging: '#B2B2B2'
+    GetBucketNotification: '#EFA1AA'
+    GetBucketObjectLockConfiguration: '#FDE380'
+    GetBucketPolicy: '#D3B3DA'
+    GetBucketPublicAccessBlock: '#9EE5E5'
+    GetBucketReplication: '#D1C6BC'
+    GetBucketRequestPayment: '#1FA8C9'
+    GetBucketTagging: '#454E7C'
+    GetBucketVersioning: '#5AC189'
+    GetBucketWebsite: '#FF7F44'
+    GetCatalogImportStatus: '#666666'
+    GetClassifiers: '#E04355'
+    GetCostAndUsage: '#FCC700'
+    GetCostForecast: '#A868B7'
+    GetDataCatalog: '#3CCCCB'
+    GetDatabase: '#A38F79'
+    GetDatabases: '#8FD3E4'
+    GetEntityTypes: '#A1A6BD'
+    GetEventSourceMapping20150331: '#ACE1C4'
+    GetFunction20150331v2: '#FEC0A1'
+    GetFunctionCodeSigningConfig: '#B2B2B2'
+    GetFunctionConcurrency: '#EFA1AA'
+    GetFunctionConfiguration20150331v2: '#FDE380'
+    GetFunctionEventInvokeConfig: '#D3B3DA'
+    GetIndex: '#9EE5E5'
+    GetJob: '#D1C6BC'
+    GetKeyPolicy: '#1FA8C9'
+    GetKeyRotationStatus: '#454E7C'
+    GetLabels: '#5AC189'
+    GetLayerVersionByArn20181031: '#FF7F44'
+    GetLifecyclePolicy: '#666666'
+    GetLogEvents: '#E04355'
+    GetOutcomes: '#FCC700'
+    GetParameter: '#A868B7'
+    GetParameters: '#3CCCCB'
+    GetPolicy: '#A38F79'
+    GetPolicy20150331: '#8FD3E4'
+    GetPolicy20150331v2: '#A1A6BD'
+    GetPolicyVersion: '#ACE1C4'
+    GetQueryExecution: '#FEC0A1'
+    GetQueryResults: '#B2B2B2'
+    GetRegistryPolicy: '#EFA1AA'
+    GetRepositoryPolicy: '#FDE380'
+    GetResolverRule: '#D3B3DA'
+    GetResolverRuleAssociation: '#9EE5E5'
+    GetResources: '#D1C6BC'
+    GetRole: '#1FA8C9'
+    GetRolePolicy: '#454E7C'
+    GetRuntimeManagementConfig: '#5AC189'
+    GetSecretValue: '#FF7F44'
+    GetServiceLinkedChannel: '#666666'
+    GetSubnetCidrReservations: '#E04355'
+    GetTable: '#FCC700'
+    GetTables: '#A868B7'
+    GetTags: '#3CCCCB'
+    GetTemplate: '#A38F79'
+    GetTopicAttributes: '#8FD3E4'
+    GetVariables: '#A1A6BD'
+    GetWorkGroup: '#ACE1C4'
+    ListAccessPoints: '#FEC0A1'
+    ListActivities: '#B2B2B2'
+    ListAlarmModels: '#EFA1AA'
+    ListAliases20150331: '#FDE380'
+    ListAnalyzers: '#D3B3DA'
+    ListApiDestinations: '#9EE5E5'
+    ListAppMonitors: '#D1C6BC'
+    ListApplications: '#1FA8C9'
+    ListArchives: '#454E7C'
+    ListAssessments: '#5AC189'
+    ListAssetModels: '#FF7F44'
+    ListAssociations: '#666666'
+    ListAttachedRolePolicies: '#E04355'
+    ListAttributeGroups: '#FCC700'
+    ListAuthorizers: '#A868B7'
+    ListBackupPlans: '#3CCCCB'
+    ListBackupVaults: '#A38F79'
+    ListBrokers: '#8FD3E4'
+    ListBuckets: '#A1A6BD'
+    ListCachePolicies: '#ACE1C4'
+    ListCertificates: '#FEC0A1'
+    ListChannels: '#B2B2B2'
+    ListCloudFrontOriginAccessIdentities: '#EFA1AA'
+    ListClusters: '#FDE380'
+    ListCodeRepositories: '#D3B3DA'
+    ListCodeSigningConfigs: '#9EE5E5'
+    ListConfigurationSets: '#D1C6BC'
+    ListConnections: '#1FA8C9'
+    ListContactLists: '#454E7C'
+    ListContainerRecipes: '#5AC189'
+    ListDashboards: '#FF7F44'
+    ListDataCatalogs: '#666666'
+    ListDatasets: '#E04355'
+    ListDatastores: '#FCC700'
+    ListDetectorModels: '#A868B7'
+    ListDetectors: '#3CCCCB'
+    ListDimensions: '#A38F79'
+    ListDiscoverers: '#8FD3E4'
+    ListDistributionConfigurations: '#A1A6BD'
+    ListDistributions: '#ACE1C4'
+    ListDocuments: '#FEC0A1'
+    ListDomainNames: '#B2B2B2'
+    ListEmailTemplates: '#EFA1AA'
+    ListEndpointConfigs: '#FDE380'
+    ListEndpoints: '#D3B3DA'
+    ListEngineVersions: '#9EE5E5'
+    ListEnvironments: '#D1C6BC'
+    ListEventBuses: '#1FA8C9'
+    ListEventSourceMappings20150331: '#454E7C'
+    ListExperimentTemplates: '#5AC189'
+    ListFindings: '#FF7F44'
+    ListFunctionUrlConfigs: '#666666'
+    ListFunctions: '#E04355'
+    ListFunctions20150331: '#FCC700'
+    ListGraphqlApis: '#A868B7'
+    ListGraphs: '#3CCCCB'
+    ListGroups: '#A38F79'
+    ListInfrastructureConfigurations: '#8FD3E4'
+    ListInputs: '#A1A6BD'
+    ListJobs: '#ACE1C4'
+    ListKeys: '#FEC0A1'
+    ListLayers20181031: '#B2B2B2'
+    ListLocations: '#EFA1AA'
+    ListMLTransforms: '#FDE380'
+    ListMetricStreams: '#D3B3DA'
+    ListMitigationActions: '#9EE5E5'
+    ListModels: '#D1C6BC'
+    ListNamespaces: '#1FA8C9'
+    ListNotebookInstanceLifecycleConfigs: '#454E7C'
+    ListNotebookInstances: '#5AC189'
+    ListOpenIDConnectProviders: '#FF7F44'
+    ListOriginRequestPolicies: '#666666'
+    ListPackagingConfigurations: '#E04355'
+    ListPackagingGroups: '#FCC700'
+    ListPipelines: '#A868B7'
+    ListPlaybackKeyPairs: '#3CCCCB'
+    ListPolicies: '#A38F79'
+    ListPortals: '#8FD3E4'
+    ListProvisionedConcurrencyConfigs: '#A1A6BD'
+    ListQueryExecutions: '#ACE1C4'
+    ListRealtimeLogConfigs: '#FEC0A1'
+    ListReceiptFilters: '#B2B2B2'
+    ListReceiptRuleSets: '#EFA1AA'
+    ListRecordingConfigurations: '#FDE380'
+    ListRegistries: '#D3B3DA'
+    ListReportPlans: '#9EE5E5'
+    ListResiliencyPolicies: '#D1C6BC'
+    ListResolverEndpoints: '#1FA8C9'
+    ListResolverRuleAssociations: '#454E7C'
+    ListResolverRules: '#5AC189'
+    ListResourceTags: '#FF7F44'
+    ListResources: '#666666'
+    ListResponseHeadersPolicies: '#E04355'
+    ListRoleAliases: '#FCC700'
+    ListRolePolicies: '#A868B7'
+    ListScheduledAudits: '#3CCCCB'
+    ListSecurityConfigurations: '#A38F79'
+    ListSecurityProfiles: '#8FD3E4'
+    ListServerCertificates: '#A1A6BD'
+    ListServices: '#ACE1C4'
+    ListSinks: '#FEC0A1'
+    ListStackResources: '#B2B2B2'
+    ListStateMachines: '#EFA1AA'
+    ListStorageLensConfigurations: '#FDE380'
+    ListStreams: '#D3B3DA'
+    ListTables: '#9EE5E5'
+    ListTags: '#D1C6BC'
+    ListTags20170331: '#1FA8C9'
+    ListTagsForResource: '#454E7C'
+    ListTagsOfResource: '#5AC189'
+    ListTaskDefinitionFamilies: '#FF7F44'
+    ListTaskDefinitions: '#666666'
+    ListTasks: '#E04355'
+    ListTopics: '#FCC700'
+    ListUsers: '#A868B7'
+    ListVersionsByFunction20150331: '#3CCCCB'
+    ListViews: '#A38F79'
+    ListWorkGroups: '#8FD3E4'
+    ListWorkflows: '#A1A6BD'
+    ListWorkspaces: '#ACE1C4'
+    ListWorkteams: '#FEC0A1'
+    PublishLayerVersion20181031: '#B2B2B2'
+    PublishVersion20150331: '#EFA1AA'
+    PutBucketNotification: '#FDE380'
+    PutRolePolicy: '#D3B3DA'
+    PutRule: '#9EE5E5'
+    PutTargets: '#D1C6BC'
+    RemoveTargets: '#1FA8C9'
+    SetQueueAttributes: '#454E7C'
+    StartExecution: '#5AC189'
+    StartQueryExecution: '#FF7F44'
+    StartSecretVersionDelete: '#666666'
+    StopQueryExecution: '#E04355'
+    Subscribe: '#FCC700'
+    Unsubscribe: '#A868B7'
+    UpdateAlias20150331: '#3CCCCB'
+    UpdateEventSourceMapping20150331: '#A38F79'
+    UpdateFunctionCode20150331v2: '#8FD3E4'
+    UpdateFunctionConfiguration20150331v2: '#A1A6BD'
+    UpdateStateMachine: '#ACE1C4'
+    UpdateTable: '#FEC0A1'
+    glue.amazonaws.com: '#1FA8C9'
+    sts.amazonaws.com: '#5AC189'
+    athena.amazonaws.com: '#454E7C'
+    kms.amazonaws.com: '#FF7F44'
+    s3.amazonaws.com: '#666666'
+    logs.amazonaws.com: '#E04355'
+    lambda.amazonaws.com: '#FCC700'
+    health.amazonaws.com: '#A868B7'
+    cloudformation.amazonaws.com: '#3CCCCB'
+    ec2.amazonaws.com: '#8FD3E4'
+    iam.amazonaws.com: '#A38F79'
+    secretsmanager.amazonaws.com: '#A1A6BD'
+    states.amazonaws.com: '#ACE1C4'
+    inspector2.amazonaws.com: '#FEC0A1'
+    rds.amazonaws.com: '#B2B2B2'
+    events.amazonaws.com: '#FDE380'
+    dynamodb.amazonaws.com: '#D3B3DA'
+    ssm.amazonaws.com: '#D1C6BC'
+    sqs.amazonaws.com: '#1FA8C9'
+    cloudtrail.amazonaws.com: '#9EE5E5'
+    redshift.amazonaws.com: '#454E7C'
+    elasticache.amazonaws.com: '#5AC189'
+    sns.amazonaws.com: '#FF7F44'
+    ecs.amazonaws.com: '#666666'
+    cloudfront.amazonaws.com: '#E04355'
+    monitoring.amazonaws.com: '#A868B7'
+    elasticloadbalancing.amazonaws.com: '#FCC700'
+    datasync.amazonaws.com: '#A1A6BD'
+    autoscaling.amazonaws.com: '#FEC0A1'
+    iot.amazonaws.com: '#A38F79'
+    kinesis.amazonaws.com: '#EFA1AA'
+    servicecatalog-appregistry.amazonaws.com: '#B2B2B2'
+    es.amazonaws.com: '#FDE380'
+    ce.amazonaws.com: '#D3B3DA'
+    sagemaker.amazonaws.com: '#D1C6BC'
+    ecr.amazonaws.com: '#8FD3E4'
+    support.amazonaws.com: '#9EE5E5'
+    dms.amazonaws.com: '#5AC189'
+    ses.amazonaws.com: '#A1A6BD'
+    route53resolver.amazonaws.com: '#8FD3E4'
+    tagging.amazonaws.com: '#A38F79'
+    backup.amazonaws.com: '#454E7C'
+    schemas.amazonaws.com: '#FEC0A1'
+    resource-explorer-2.amazonaws.com: '#3CCCCB'
+    frauddetector.amazonaws.com: '#E04355'
+    oam.amazonaws.com: '#D3B3DA'
+    iotsitewise.amazonaws.com: '#A868B7'
+    eks.amazonaws.com: '#666666'
+    ram.amazonaws.com: '#3CCCCB'
+    guardduty.amazonaws.com: '#1FA8C9'
+    iotanalytics.amazonaws.com: '#ACE1C4'
+    servicediscovery.amazonaws.com: '#FF7F44'
+    iotevents.amazonaws.com: '#B2B2B2'
+    ivs.amazonaws.com: '#1FA8C9'
+    appconfig.amazonaws.com: '#9EE5E5'
+    imagebuilder.amazonaws.com: '#EFA1AA'
+    securityhub.amazonaws.com: '#FDE380'
+    iottwinmaker.amazonaws.com: '#D1C6BC'
+    access-analyzer.amazonaws.com: '#ACE1C4'
+    batch.amazonaws.com: '#8FD3E4'
+    elasticfilesystem.amazonaws.com: '#E04355'
+    signin.amazonaws.com: '#454E7C'
+    mediapackage.amazonaws.com: '#666666'
+    workspaces.amazonaws.com: '#5AC189'
+    auditmanager.amazonaws.com: '#FEC0A1'
+    kafka.amazonaws.com: '#D3B3DA'
+    kinesisanalytics.amazonaws.com: '#EFA1AA'
+    transfer.amazonaws.com: '#9EE5E5'
+    rum.amazonaws.com: '#ACE1C4'
+    codepipeline.amazonaws.com: '#3CCCCB'
+    fis.amazonaws.com: '#A38F79'
+    amazonmq.amazonaws.com: '#B2B2B2'
+    resiliencehub.amazonaws.com: '#454E7C'
+    acm.amazonaws.com: '#5AC189'
+    appsync.amazonaws.com: '#A868B7'
+    elasticmapreduce.amazonaws.com: '#FCC700'
+    cloudcontrolapi.amazonaws.com: '#D1C6BC'
+    detective.amazonaws.com: '#1FA8C9'
+    cloud9.amazonaws.com: '#A1A6BD'
+    AccessDenied: '#1FA8C9'
+    ConcurrentModificationException: '#454E7C'
+    EntityNotFoundException: '#5AC189'
+    InvalidAccessException: '#FF7F44'
+    InvalidRequestException: '#666666'
+    LifecyclePolicyNotFoundException: '#E04355'
+    NoSuchBucketPolicy: '#FCC700'
+    NoSuchCORSConfiguration: '#A868B7'
+    NoSuchEntityException: '#3CCCCB'
+    NoSuchLifecycleConfiguration: '#A38F79'
+    NoSuchPublicAccessBlockConfiguration: '#8FD3E4'
+    NoSuchTagSet: '#A1A6BD'
+    NoSuchWebsiteConfiguration: '#ACE1C4'
+    ObjectLockConfigurationNotFoundError: '#FEC0A1'
+    RegistryPolicyNotFoundException: '#B2B2B2'
+    ReplicationConfigurationNotFoundError: '#EFA1AA'
+    ResourceNotFoundException: '#FDE380'
+    ServerSideEncryptionConfigurationNotFoundError: '#D3B3DA'
+  color_scheme_domain: []
+  expanded_slices: {}
+  label_colors: {}
+  timed_refresh_immune_slices: []
+  default_filters: '{}'
+  native_filter_configuration:
+  - id: NATIVE_FILTER-mpI5NCBOW
+    controlValues:
+      enableEmptyFilter: false
+    name: timerange
+    filterType: filter_time
+    targets:
+    - {}
+    defaultDataMask:
+      extraFormData:
+        time_range: Last week
+      filterState:
+        value: Last week
+    cascadeParentIds: []
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    type: NATIVE_FILTER
+    description: ''
+    chartsInScope:
+    - 79
+    - 80
+    - 81
+    tabsInScope: []
+version: 1.0.0

@@ -1,0 +1,11 @@
+database_name: matano_default
+sqlalchemy_uri: awsathena+rest://AKIAXXXXXXXXXXXXXXXX:XXXXXXXXXX@athena.eu-west-1.amazonaws.com/matano?s3_staging_dir=s3%3A%2F%2Fmatanodpcommonstack-matanoathenaresults7126458b-2bzsjnisd5g9%2Fresults%2Fmatano-default%2F&work_group=matano_default
+cache_timeout: null
+expose_in_sqllab: true
+allow_run_async: true
+allow_ctas: false
+allow_cvas: false
+allow_file_upload: false
+extra: {}
+uuid: 729adce1-a76b-4ee4-bcbd-49323ee2d297
+version: 1.0.0

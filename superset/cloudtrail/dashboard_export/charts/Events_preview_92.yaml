@@ -1,0 +1,36 @@
+slice_name: Events preview
+viz_type: table
+params:
+  datasource: 21__table
+  viz_type: table
+  granularity_sqla: ts
+  time_grain_sqla: PT1M
+  time_range: No filter
+  query_mode: raw
+  groupby: []
+  all_columns:
+  - ts
+  - cloud_account_id
+  - cloud_region
+  - event_provider
+  - event_action
+  - user_name
+  - source_address
+  percent_metrics: []
+  adhoc_filters: []
+  order_by_cols:
+  - '["ts", false]'
+  server_pagination: true
+  row_limit: 1000
+  server_page_length: 100
+  order_desc: true
+  table_timestamp_format: smart_date
+  show_cell_bars: true
+  color_pn: true
+  extra_form_data: {}
+  dashboards:
+  - 8
+cache_timeout: null
+uuid: 77c42ea2-4643-4400-b2a7-ee669e135b17
+version: 1.0.0
+dataset_uuid: 0bb854e4-b49f-43c2-bbf1-939617771bd1
